@@ -1,8 +1,8 @@
-Lung-Colon Cancer Classification with CNN
+Lung-Colon Cancer Classification based on Custom CNN Model.
 
 A Deep Learning model designed to distinguish between different types of lung and colon cancer histopathological images  ([Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)) 
 
-The dataset consists of five categories:
+The dataset consists of 5 Classes:
 1. Colon Adenocarcinoma (colon_aca), 
 2. Normal Colon Tissue (colon_n),
 3. Lung Adenocarcinoma (lung_aca),
