@@ -1,4 +1,4 @@
-# ![Lung-Colon Cancer Classifier Logo](https://github.com/Ghost-141/Fruit-Vegetable-Classifier/blob/fbbcbb6d6303e56bd00a6647bcc4893dd18aa01f/cover%20image.jpg) Deep Learning based Lung-Colon Cancer Classifier
+# ![Lung-Colon Cancer Classifier Logo](https://github.com/Ghost-141/Lung_Colon_Cancer_Classification_with_CNN/blob/4da74f5ff48f53ea66caa5df22ef501ccaeb8120/cover%20image.jpeg) Deep Learning based Lung-Colon Cancer Classifier
 
 Lung-Colon Cancer Classification based on Custom CNN 
 
