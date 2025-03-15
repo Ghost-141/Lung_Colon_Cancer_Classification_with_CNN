@@ -1,4 +1,6 @@
-Lung-Colon Cancer Classification based on Custom CNN Model.
+# ![Lung-Colon Cancer Classifier Logo](https://github.com/Ghost-141/Fruit-Vegetable-Classifier/blob/fbbcbb6d6303e56bd00a6647bcc4893dd18aa01f/cover%20image.jpg) Deep Learning based Lung-Colon Cancer Classifier
+
+Lung-Colon Cancer Classification based on Custom CNN 
 
 A Deep Learning model designed to distinguish between different types of lung and colon cancer histopathological images  ([Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)) 
 
