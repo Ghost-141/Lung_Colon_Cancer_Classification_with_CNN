@@ -48,7 +48,7 @@ model =  LungDisease_Classifier(num_classes=5)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-model_path = "C:/Users/Imtiaz/Documents/GitHub/Lung_Colon_Cancer_Classification_with_CNN/LungDisease_Classifier.pth" 
+model_path = "Lung_Colon_Cancer_Classification_with_CNN/LungDisease_Classifier.pth" 
 
 model.load_state_dict(torch.load(model_path, map_location=device))
 model.to(device)
