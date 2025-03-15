@@ -1,8 +1,7 @@
 # ![Lung-Colon Cancer Classifier Logo](https://github.com/Ghost-141/Lung_Colon_Cancer_Classification_with_CNN/blob/4da74f5ff48f53ea66caa5df22ef501ccaeb8120/cover%20image.jpeg) Deep Learning based Lung-Colon Cancer Classifier
+ 
 
-Lung-Colon Cancer Classification based on Custom CNN 
-
-A Deep Learning model designed to distinguish between different types of lung and colon cancer histopathological images  ([Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)) 
+A Custom Deep Learning model designed to distinguish between different types of lung and colon cancer from histopathological images ([Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)) 
 
 The dataset consists of 5 Classes:
 1. Colon Adenocarcinoma (colon_aca), 
